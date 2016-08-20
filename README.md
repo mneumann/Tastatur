@@ -19,6 +19,7 @@ Project building my own mechanical keyboard
 * Mobile one/two-handed chord (?) keyboard.
 * Uses orientation and movement to switch between different layouts
 * Can be used while standing, walking etc.
+* Capacitive Touch sensor: [CAP1296](http://ww1.microchip.com/downloads/en/DeviceDoc/00001569B.pdf)
 
 ## Inspiration
 
