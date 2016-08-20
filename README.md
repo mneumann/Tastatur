@@ -14,6 +14,12 @@ Project building my own mechanical keyboard
 * Firmware written in [Rust][rust]
 * (VGA connector)
 
+## Ergonomic Ideas
+
+* Mobile one/two-handed chord (?) keyboard.
+* Uses orientation and movement to switch between different layouts
+* Can be used while standing, walking etc.
+
 ## Inspiration
 
 * [Planck Keyboard](http://olkb.com/planck)
